@@ -1,6 +1,5 @@
 Flask
 yfinance
 pandas
-pandas_ta
 gunicorn
 numpy
